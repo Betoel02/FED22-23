@@ -10,16 +10,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Jij
+## Jij, Betoel Fadallah
 
 <details open>
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Betoel Fadallah
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Mijn startniveau is blauw/rood (kies uit zwart, rood óf blauw)
 
   #### Je focus:
   hier je focus (kies uit responsive óf surface plane)
