@@ -55,6 +55,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 1e werkgroep</summary>
+  Voor het onderzoeksfase 
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
