@@ -10,20 +10,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-## Jij, Betoel Fadallah
+## Jij
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
   Betoel Fadallah
 
   #### Je startniveau:
-  Mijn startniveau is blauw/rood (kies uit zwart, rood óf blauw)
+  blauw/ rood piste.
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
- 
+  (kies uit responsive óf surface plane.)
+  Mijn focus ligt op surface plane, als ik tijd over hou werk ik eventueel verder toe aan responsive. 
+
 </details>
 
 
@@ -33,19 +33,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
   https://www.dolcegabbana.com/en/
+  
+  Ze hebben ondertussen meerdere aanpassingen doorgevoerd qua opmaak. Wel heb ik een Adobe XD file met daarin screenshots van de schermen die ik zo veel mogelijk probeer na te maken.
 
+  Link: https://xd.adobe.com/view/23c7a785-c879-4b20-b483-35677b092a51-7694/
+  
   #### Screenshot(s) van de eerste pagina (small screen): 
-  1. Home pagina van Dolce & Gabbana.
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Home   
+  <img src="readme-images/" width="375px" alt="omschrijving van de pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  2. Product pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  hier de naam van de pagina  
+  <img src="readme-images/dolce_and_gabbana_home_ss.png" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
@@ -55,10 +57,26 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 1e werkgroep</summary>
-  Voor het onderzoeksfase 
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+
+  Voor het onderzoeksfase heb ik samen met Leanne aantal verschillende testen uitgevoerd op de site om zo te achterhalen welke beperkingen en belemmeringen bepaalde doelgroepen wellicht tegenaan lopen. We hebben daarvoor verschillende visuele testen voor wat betreft zicht en beeld die verschillende gebruikers ervaren maar ook fysieke obstakels, denk aan typen op het toetsenbord waarbij elastiekjes om de vingers zijn gevestigd. Zo hebben we ook ervaren welke handelingen het lastiger maakt voor sommige gebruikers en konden we daardoor beter inleven. Er zijn 3 hoofd testen uitgevoerd:
+
+  1. Blur/Glare Cataract #200776 werd als een groot belemmering ervaren. Overgroot deel van de teksten waren niet goed leesbaar en koste de gebruiker (Leanne) meer tijd om ze te herkennen. Deze gebruiker kan beter gebruik maken van gehoor, want op beeld kun je helaas niet rekennen... 
+  <img src="readme-images/IMG_2233.jpg" width="375px" alt="omschrijving van de pagina">
+
+  2. Low contrast bril #0778P van Optelec.com zorgde voor weinig tot geen belemmering. Voordeel van Dolce & Gabbana site (afgekort DC) is dat overgroot deel van de huisstijl en huidige campagne die gevoerd word sterk in contrast is en met name zwart/ wit.
+  <img src="readme-images/IMG_2230.jpg" width="375px" alt="omschrijving van de pagina">
+
+  3. Peripheral Field Loss #0775P zorgde voor een redelijke tot grote belemmering voor de gebruiker. Zicht over de site was matig, maar dit kwam voornamelijk door de beperkte beeld en de hoeveelheid breedte de gebruiker kon waarnemen. Knoppen waren lastiger te spotten, ook omdat DC aanzienlijk kleinere knoppen heeft dan een gemiddelde site.
+  <img src="readme-images/IMG_2195.jpg" width="375px" alt="omschrijving van de pagina">
+
+  4. Ballon voor ADHD en gebruikers met slechte concentratie span, was de site wel prima te bedienen. Visueel waren er geen belemmeringen. En over het algeel kan de gebruiker door de 2 losse navigatie balken(3 eigenlijk) sneller producten vinden door de geavanceerde menu opties die gecategoriseerd zijn.
+  <img src="readme-images/IMG_2216.jpg" width="375px" alt="omschrijving van de pagina">
+
+  5.   
+
 
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
